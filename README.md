@@ -22,7 +22,7 @@ It provides a system for viewing and recording photo grades without the need to 
 
 The system also records which files have previously been graded and won't allow you to accidentally grade the same file twice. It also keeps track of where you got to, so if you turn it off for a while, when you start it up again, it picks up where you left off. 
 
-Our experienced photograders have informally benchmarked this at around 10 photographs per minute.  
+Our experienced photograders have informally benchmarked this at around 10 photographs per minute in populations with a low trachoma prevalence.  
 
 The end result is a tidy data file saved on your computer hard drive.  
 ### Example output file
