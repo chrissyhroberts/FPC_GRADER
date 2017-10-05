@@ -18,7 +18,7 @@ Health Organization; 1981.*
 
 ### Benefits  
 
-It provides a system for viewing and recording photo grades without the need to remove the hands from the keyboard. There are no mouse clicks, no need to open photo files, no need to record the results in a file. You simplyput the photos to be graded in a folder, run the script and off you go.  
+It provides a system for viewing and recording photo grades without the need to remove the hands from the keyboard. There are no mouse clicks, no need to open photo files, no need to record the results in a file. You simply put the photos to be graded in a folder, run the script and off you go.  
 
 The system also records which files have previously been graded and won't allow you to accidentally grade the same file twice. It also keeps track of where you got to, so if you turn it off for a while, when you start it up again, it picks up where you left off. 
 
