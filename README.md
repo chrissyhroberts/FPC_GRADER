@@ -67,5 +67,5 @@ The script will run automatically
 You can press escape at any time to quit. 
 
 
-## To change the size of the images, adjust line 20 of the fpc_grader_scripts.R file.
-## It is currently set to 1028 * 800
+### To change the size of the images, adjust line 20 of the fpc_grader_scripts.R file.
+### It is currently set to 1028 * 800
