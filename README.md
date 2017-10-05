@@ -47,8 +47,8 @@ Use NOTES to record additional observations.
 
 ## INSTALLATION
 
-Install R and R studio
-Download the files in this repo
+Install R and R studio  
+Download the files in this repo and put them in a folder on your computer
 
 ## Run
 
@@ -56,7 +56,9 @@ Download the files in this repo
 Adjust the settings in the FPC_grader.R file (with text editor or Rstudio) and then save the file without changing the name.  
   
 ###Step Two  
-Open RStudio and type
+Open RStudio (we recommend making an R Project file in the same folder as the FPC_Grader scripts  
+
+Run the following command or source from within Rstudio
 
 >source("FPC_grader.R")
 
