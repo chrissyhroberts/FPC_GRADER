@@ -12,7 +12,7 @@ The platform implements Dawson’s 1981 system (referred to as the FPC system), 
 
 For more details see 
 
-Dawson CR, Jones BR, Tarizzo ML, World Health Organization. Guide to trachoma
+*Dawson CR, Jones BR, Tarizzo ML, World Health Organization. Guide to trachoma
 control in programmes for the prevention of blindness. Geneva, Switzerland: World
 Health Organization; 1981.  
 
